@@ -1,0 +1,4 @@
+(C) "BSI (2020) "Duplex Apartment Test Files," buildingSMART International", https://github.com/buildingsmart-community/Community-Sample-Test-Files/tree/main/IFC%202.3.0.1%20(IFC%202x3)/Duplex%20Apartment
+
+This work is licensed under the Creative Commons Attribution 4.0 International License. 
+More info and a link to the full license text is available on http://creativecommons.org/licenses/by/4.0/

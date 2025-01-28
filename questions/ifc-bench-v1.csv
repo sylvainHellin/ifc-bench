@@ -1,0 +1,145 @@
+question,answer,ifc_model,project
+What is the total gross floor area of the building?,The total gross floor area of the building is 354.67 sqm,arc,duplex
+What is the height of the ceiling in room A203?,The height of the ceiling in room A203 is 2.58 m,arc,duplex
+Give me the name of all the rooms in the building.,"The list of all the rooms in the building is: ['A101','A102','A103','A104','A105','A201','A202','A203','A204','A205','B101','B102','B103','B104','B105','B201','B202','B203','B204','B205','R301']",arc,duplex
+How many windows are there on the north facade?, I cannot calculate the number of window on the north facade because the model is not georeferenced.,arc,duplex
+What is the width of the door 1hOSvn6df7F8_7GcBWlRGQ ?, The width of the door is 1.25 m,arc,duplex
+Are all internal doors compliant with accessibility requirements?,"No, not every door is compliant with accessibility requirements",arc,duplex
+What is the floor-to-floor height between the ground floor and first floor?,The floor-to-floor height between the ground floor and the first floor is 3.1 m,arc,duplex
+What is the total area of glazing on the façade?,It is not possible to get the exact glazing area from this model. The total window area in the model is 65.94 sqm.,arc,duplex
+Which rooms have direct access to outdoor spaces?,10 rooms have some form of outdoor access: 4 rooms have direct access through doors and 6 have windows to the outside.,arc,duplex
+What is the total length of water supply piping in the building?,"The total lenght of water supply piping in the building is 1,747.29 m",mep,duplex
+Where are the main electrical panels located?,"The question cannot be precisely answered, because there is no main electrical panel in the model.",mep,duplex
+How many radiator are there in room A202?,There are two radiators in room A202.,mep,duplex
+What is the diameter of the main drainage pipe?,The main drainage pipe has a diameter of 40 mm.,mep,duplex
+What is the capacity of the hot water tank?,"There is no water tank in this model. However, there is a hot water boiler with a heat output of 147 KW and a water flow rate of 0.51 m³/s.",mep,duplex
+Which rooms have thermostats installed?,"Based on the data, there are two thermostats installed in the model:1. One thermostat in room A1022. One thermostat in room B102",mep,duplex
+What type of heating system is used in the bathrooms?,The bathrooms are heated using wall-mounted hydronic radiators that are connected to a central boiler system.,mep,duplex
+Are the walls of room A203 load bearing?,"Room A203 contains three wall types: non-load-bearing interior partitions, a CMU party wall with potential structural function, and a likely load-bearing exterior brick wall.",arc,duplex
+What is the depth of the foundation?,The depth of the foundation is 300 mm,arc,duplex
+What is the specification of the concrete used in the ground floor slab?,"The ground floor slab is a 127mm thick, 64.78 sqm interior slab on grade, but the concrete specification is missing from the model's data.",arc,duplex
+Are there any steel beams spanning the living room of Duplex B?,"No, there are no steel beams spanning the living room of Duplex B",arc,duplex
+What is the thickness of the external walls?,The thickness of the external walls is 417 mm,arc,duplex
+What type of roof structure is used?,"The roof is a flat, wood-joist structure designed for a live roof.",arc,duplex
+Where are the main structural walls located?,The main structural walls are the exterior brick-on-block and concrete foundation walls.,arc,duplex
+What is the live load capacity of the first floor?,Information not available in the BIM model.,arc,duplex
+What is the fire rating of the internal doors?,Information not available in the BIM model.,arc,duplex
+How many fire exits are there on each floor?,"The question cannot be answered definitively with the information available in the BIM model. There are 4 doors to the outside that could be used to escape from the house on the ground floor. However, their fire resistance is not specified.",arc,duplex
+What is the distance from the furthest point to the nearest emergency exit?,Approximately 22 metres.,arc,duplex
+Where are the smoke detectors located?,"The some smoke detectors are located in rooms B102-M, B202-M, B203-M, A102-M, A202-M, A203-M.",mep,duplex
+What type of fire suppression system is installed?,There is no fire suppression system in the building.,mep,duplex
+Are there fire-rated walls between different zones?,"Probably, but we don't know for sure. There is a CMU wall in the building between the two units, but it is not explicitly specified as a firewall.",arc,duplex
+What is the width of the emergency escape routes?,"The model does not explicitly provide this information. However, it can be inferred that the width is at least 864 mm, based on the width of the doors in the hallway.",arc,duplex
+Where are the fire extinguishers located?,There are no fire extinguishers in the BIM model.,mep,duplex
+What is the thickness of the insulation of the external walls?,The thickness of the insulation of the external walls is 50 mm.,arc,duplex
+What is the thickness of the insulation of the external walls?,The thickness of the insulation of the external walls is 42 mm.,arc,dental_clinic
+Which type of glazing is used in the windows?,Information not available in the BIM model.,arc,duplex
+Is there a vapor barrier in the roof construction?,"Yes, the roof has two vapor barrier.",arc,duplex
+What type of insulation is used in the external walls?,The external walls utilize 50mm thick rigid insulation located between the air cavity and concrete block.,arc,duplex
+What type of insulation is used in the external walls?,The exact insulation material is not defined in the BIM model. The insulation material is labelled 'Insulated Panel' with a thickness of 42mm.,arc,dental_clinic
+Are there any thermal bridges identified in the model?,Information not available in the BIM model.,arc,duplex
+What is the air tightness rating of the building envelope?,Information not available in the BIM model.,arc,duplex
+What is the solar heat gain coefficient of the windows?,Information not available in the BIM model.,arc,duplex
+Where are the main utility shut-off valves located?,The main utility shutoff valves are located in rooms A205 and B205.,mep,duplex
+What is the maintenance schedule for the HVAC system?,Information not available in the BIM model.,mep,duplex
+Which elements need regular maintenance?,"
+        Several technical elements need regular maintenance:
+
+        1. HVAC Equipment:
+        - Boilers: Located in rooms A205 and B205
+        - Fans: Two units in room R301
+        - Pumps: Circulator pumps in rooms A205 and B205
+        - Radiators: Distributed throughout both units in rooms A101-A204 and B101-B204
+
+        2. Plumbing Fixtures:
+        - Water Closets: In rooms A104, A204, B104, B204
+        - Bath Tubs: In rooms A204, B204
+        - Shower Stalls: In rooms A104, B104
+        - Sinks: In rooms A103, B103
+        - Lavatories: In rooms A104, A204, B104, B204
+        - Valves: Primarily in rooms A205 and B205
+
+        3. Electrical Systems:
+        - Light Fixtures: 
+        * Pendant lights in various rooms
+        * Sconce lights in multiple locations
+        - Electrical Panels: In rooms A101 and B101
+        - Smoke Detectors: In rooms A101, A202, A203, B101, B202, B203
+        ",mep,duplex
+What is the expected lifespan of the roofing material?,"
+        The explicit lifespan of the roofing material is not specified in the BIM model. 
+        However, we do know that the roofing material is an EPDM (Ethylene Propylene Diene Monomer) membrane, and the life of EPDM membranes is typically 25 to 30 years, although it can be much longer with proper maintenance.
+        ",arc,duplex
+What is the expected lifespan of the roofing material?,"
+        The explicit lifespan of the roofing material is not specified in the BIM model. 
+        However, we do know that the roofing material is an EPDM (Ethylene Propylene Diene Monomer) membrane, and the life of EPDM membranes is typically 25 to 30 years, although it can be much longer with proper maintenance.
+        ",arc,dental_clinic
+What is the warranty period for the installed windows?,Information not available in the BIM model.,arc,duplex
+What is the total surface area of the façade?,"
+        The total surface area of the façade is approximately 275 square meters.
+        ",arc,duplex
+How many light fixtures are specified in the model?,The model specifies 14 light fixtures: 8 pendant and 6 sconce lights.,mep,duplex
+What is the volume of concrete required for the foundation?,The foundation requires 16.528 cubic meters of concrete.,arc,duplex
+What is the total length of skirting boards needed?,Information not available in the BIM model.,arc,duplex
+How many square meters of flooring are required for each room?,Information not available in the BIM model.,arc,duplex
+What is the total volume of insulation material needed?,"Approximately 13 to 14 cubic meters of rigid insulation are needed for the exterior walls, assuming consistent wall composition and no other insulation is required.",arc,duplex
+How many interior doors are there in this building?,There are 10 interior doors in this building.,arc,duplex
+What is the total area of wall surfaces requiring painting?,The total area of wall surfaces requiring painting is 398.40 sqm,arc,duplex
+What is the predicted annual energy consumption?,Information not available in the BIM model.,mep,duplex
+Are there any renewable energy systems integrated into the design?,"No renewable energy system was found in the building",mep,duplex
+What is the water efficiency rating of the specified fixtures?,Information not available in the BIM model.,mep,duplex
+Which materials have recycled content?,Information not available in the BIM model.,mep,duplex
+What is the embodied carbon of the structural elements?,Information not available in the BIM model.,arc,duplex
+How much of the materials can be recycled at end-of-life?,"This information is not directly available in the BIM model. However, it is possible to get a rough idea based on the type of materials used in the building. A significant proportion of the building materials are recyclable, with metals, concrete and bricks being highly recyclable, while plasterboard, insulation and mixed materials have lower or uncertain recyclability rates, depending on material specifics and local facilities.",arc,duplex
+What is the total gross floor area of the dental clinic?,"The total GFA of the dental clinic is 4,574.71 sqm",str,dental_clinic
+How many X-RAY rooms are there in total?,There are 2 X-RAY rooms in total,arc,dental_clinic
+What is the ceiling height in treatment room 2A12?,The ceiling height in treatment room 2A12 is 2.80 meters,arc,dental_clinic
+What are the dimensions of the central atrium?,"The dimensions of the central atrium are 10.7m high, variable width (between 3.8m and 6m), variable length (between 28.8m and 31.9m).",arc,dental_clinic
+What is the width of the main entrance door?,The width of the main entrance door is 1.8m.,arc,dental_clinic
+Can you give me the list of each room available in house A?,"Foyer (A101), Living Room (A102), Kitchen (A103), Bathroom 1 (A104), Bedroom 1 (A202), Hallway (A201), Bedroom 2 (A203), Bathroom 2 (A204), and Utility (A205)",arc,duplex
+How many rooms are there in house A?,There are 10 rooms in house A,arc,duplex
+How many rooms are there in the clinic ?,There are 269 rooms in the clinic,arc,dental_clinic
+What is the total area of the sterilization rooms?,The total area of the sterilization room is 18.69 sqm,arc,dental_clinic
+What is the waiting room capacity ?,"
+Information not directly available in the BIM model, but assuming a typical occupancy rate of 0.9 to 1.5 sqm per person, could be estimated at:
+- Central Waiting capacity: ~125-200 people
+- Dental Waiting capacity: ~30-50 people
+",arc,dental_clinic
+What is the UFA ?,"The total usable floor area is 2,981.73 sqm",str,dental_clinic
+What is the GFA ?,The total gross floo area is 5077.38 sqm,str,dental_clinic
+What is the ratio of UFA to GFA?,The ratio of UFA to GFA is 0.587,str,dental_clinic
+What is the ratio of UFA to GFA?,The ratio of UFA to GFA is 0.576,arc,duplex
+How many square meters of storage space are available??,There are 209.85 sqm of storage space available,arc,dental_clinic
+What is the ratio of clinical to non-clinical space?,"The ratio of clinical to non-clinical space is approximately 0.22, based on usable area, including all laboratories, interaction stations, etc. and excluding all corridors, waiting areas, offices, etc.",arc,dental_clinic
+What is the average room height for the interation stations?,The average room height for the interaction stations is 2.8 m,str,dental_clinic
+What is the fire rating of the walls between treatment rooms?,Information not available in the BIM model.,str,dental_clinic
+What is the distance from treatment room 1E12 to the nearest emergency exit?,"The distance is difficult to calculate exactly, but the path from 1E12 through 1E33, 1DC6, 1EC1 and finally 1EC4 is approximately 20-22 metres long.",arc,dental_clinic
+What is the distance from treatment room 1E23 to the nearest emergency exit?,"The distance is difficult to calculate exactly, but the path from 1E23 through 1EC1, and finally 1EC4 is approximately 6-9 metres long.",arc,dental_clinic
+Is there a server room?,"Yes, there is a server room. It's designated as the 'COMPUTER ROOM' (Room 2D04A) located on the Second Floor.",arc,dental_clinic
+Are there any reinforced areas for heavy medical equipment?,No clearly identifiable reinforced areas; structural elements appear to be consistent throughout the building.,arc,dental_clinic
+What type of flooring is used in the sterilization room?,Information not available in the BIM model.,arc,dental_clinic
+What is the wall finishing material in treatment room 1D34?,The wall finishing material in treatment room 1D34 is Plasterboard.,arc,dental_clinic
+What type of ceiling system is installed in office areas?,The office areas are equipped with an Acoustic Ceiling Tile (ACT) system featuring 600mm x 600mm grid panels.,arc,dental_clinic
+How many square meters of specialty flooring are needed for the Labs?,108.7 sqm of specialty flooring are needed for the labs,arc,dental_clinic
+What are the dimensions of the main steel columns?,"The main steel columns are W250X67 sections with the following dimensions:
+- Total depth: 257mm
+- Flange width: 204mm
+- Flange thickness: 15.7mm
+- Web thickness: 8.9mm",str,dental_clinic
+What is the sound transmission class (STC) rating between treatment rooms?,"This information is not directly available in the BIM model. The partition walls between the treatment rooms are a standard metal stud partition, composed of two 16mm plasterboard panels with a 92mm metal stud layer. This type of wall will typically have a Sound Transmission Class (STC) of 38-40 dB if the cavity is not filled with acoustic material.",arc,dental_clinic
+Are the interior walls load bearing?,"No, the interior walls are not load bearing.",arc,dental_clinic
+What is the structural concept of the building?,The structural concept is: steel frame and concrete slabs.,str,dental_clinic
+Are the windows single or double glazed?,"The information is not directly available in the BIM model, but based on the 19mm inset depth of the window, it appears to be double glazed.",arc,dental_clinic
+How many sqm of office space is there in the building?,There are 502.14 sqm of office space in the building,arc,dental_clinic
+How many toilets room are there on the second floor?,There are 8 toilet rooms on the second floor.,arc,dental_clinic
+What is the floor to floor height between the first and the second floor?,The floor to floor height between the first and second floor is 4.57 meters.,arc,dental_clinic
+What are the dimensions of the window with guid 0otfaO0qPDAhynjJ6DmgH8?,The window has a height of 1.735 meters and a width of 1.0 meters.,arc,dental_clinic
+What are the foundations made of?,The foundations are made of reinforced concrete.,arc,dental_clinic
+Which rooms are connected to room 1B07?,Room 1B07 is only connected to room 1BC2 (a corridor).,arc,dental_clinic
+Which rooms are adjacent to room 1B07?,"Rooms 1B09, 1BC2, 1B05, 1B04 are adjacent to room 1B07.",arc,dental_clinic
+What is the size of the tech office on the second floor?,The size of the tech office on the second floor is approximately 16.922 meters by 5.616 meters.,arc,dental_clinic
+What is the volume of concrete required for the foundation? Use the str bim model.,The volume of concrete required for the foundation is 46.5 cubic meters.,str,dental_clinic
+How many bedrooms are there?,There are 4 bedrooms in the building.,arc,duplex
+How many steps does the stair in house A have?,The stair has 16 steps.,arc,duplex
+How many sqm of tiles are there in the bathroom of house A?,The bathroom of house A has 6.34 sqm of tiling.,arc,duplex
+What is the GUID of the ceiling in the living room of house A?,The GUID of the ceiling in the living room of house A is 3bXiCStxP6Fgxdej$yc50n.,arc,duplex

@@ -1,0 +1,2 @@
+name,description,usage,models,license,link_license,author,source
+duplex,"""A two story, duplex apartment building.""",living,,CC BY 4.0,http://creativecommons.org/licenses/by/4.0/,"""BSI (2020) ""Duplex Apartment Test Files,"" buildingSMART International""",https://github.com/buildingsmart-community/Community-Sample-Test-Files/tree/main/IFC%202.3.0.1%20(IFC%202x3)/Duplex%20Apartment

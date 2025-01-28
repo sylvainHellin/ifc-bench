@@ -1,0 +1,2 @@
+name,description,usage,models,license,link_license,author,source
+dental_clinic,"""A two story, clinic with a number of different department including medical, dental, pediatric, and imaging suites.\nThis is a real building whose information has been redacted.""",healthcare,,CC BY 4.0,http://creativecommons.org/licenses/by/4.0/,"""BSI (2020) ""Medical-Dental Test Files""""",https://github.com/buildingsmart-community/Community-Sample-Test-Files/tree/main/IFC%202.3.0.1%20(IFC%202x3)/Medical-Dental%20Clinic

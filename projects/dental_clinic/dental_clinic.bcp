@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<bimcollabprojectfile>
+    <version>1</version>
+    <applicationversion>OSX - 9.2.12.0</applicationversion>
+</bimcollabprojectfile>
+
+<project>
+    <coordinatedorigin>0.0000000000000000;0.0000000000000000;0.0000000000000000</coordinatedorigin>
+    <model>
+        <filepath>/Users/sylvainhellin/Projects/TUM/ifcAnswerEngineV2/src/models/dental_clinic/arc.ifc</filepath>
+        <filesize>13208096</filesize>
+        <timestamp>2011-09-08T08:59:58</timestamp>
+        <prefix></prefix>
+        <modelloaded>true</modelloaded>
+        <online>false</online>
+        <originalfilename>Project Number</originalfilename>
+        <description>ViewDefinition [CoordinationView]</description>
+        <implementationlevel>2;1</implementationlevel>
+        <author></author>
+        <organization></organization>
+        <originatingsystem>20100326_1700 (Solibri IFC Optimizer)</originatingsystem>
+        <authorization></authorization>
+        <fileschema>IFC2X3</fileschema>
+        <discipline></discipline>
+    </model>
+    <model>
+        <filepath>/Users/sylvainhellin/Projects/TUM/ifcAnswerEngineV2/src/models/dental_clinic/str.ifc</filepath>
+        <filesize>19375987</filesize>
+        <timestamp>2011-09-08T09:03:14</timestamp>
+        <prefix></prefix>
+        <modelloaded>true</modelloaded>
+        <online>false</online>
+        <originalfilename>Project Number</originalfilename>
+        <description>ViewDefinition [CoordinationView]</description>
+        <implementationlevel>2;1</implementationlevel>
+        <author></author>
+        <organization></organization>
+        <originatingsystem>(Solibri IFC Optimizer)</originatingsystem>
+        <authorization></authorization>
+        <fileschema>IFC2X3</fileschema>
+        <discipline></discipline>
+    </model>
+</project>
